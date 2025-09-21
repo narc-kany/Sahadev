@@ -1,0 +1,14 @@
+python-dotenv
+streamlit
+pyswisseph
+pytz
+pandas
+numpy
+python-dateutil
+geopy
+jinja2
+openai 
+kerykeion
+pyjhora
+svgwrite
+langcodes
